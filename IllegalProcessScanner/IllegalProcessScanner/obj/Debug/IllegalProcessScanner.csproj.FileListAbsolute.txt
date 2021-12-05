@@ -1,0 +1,10 @@
+C:\Users\acer\source\repos\IllegalProcessScanner\IllegalProcessScanner\bin\Debug\IllegalProcessScanner.exe.config
+C:\Users\acer\source\repos\IllegalProcessScanner\IllegalProcessScanner\bin\Debug\IllegalProcessScanner.exe
+C:\Users\acer\source\repos\IllegalProcessScanner\IllegalProcessScanner\bin\Debug\IllegalProcessScanner.pdb
+C:\Users\acer\source\repos\IllegalProcessScanner\IllegalProcessScanner\obj\Debug\IllegalProcessScanner.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\IllegalProcessScanner\IllegalProcessScanner\obj\Debug\IllegalProcessScanner.Form1.resources
+C:\Users\acer\source\repos\IllegalProcessScanner\IllegalProcessScanner\obj\Debug\IllegalProcessScanner.Properties.Resources.resources
+C:\Users\acer\source\repos\IllegalProcessScanner\IllegalProcessScanner\obj\Debug\IllegalProcessScanner.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\IllegalProcessScanner\IllegalProcessScanner\obj\Debug\IllegalProcessScanner.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\IllegalProcessScanner\IllegalProcessScanner\obj\Debug\IllegalProcessScanner.exe
+C:\Users\acer\source\repos\IllegalProcessScanner\IllegalProcessScanner\obj\Debug\IllegalProcessScanner.pdb
