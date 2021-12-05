@@ -36,7 +36,6 @@ namespace IllegalProcessScanner
                 if (name.ProcessName.Contains(procName))
                 {
                     name.Kill();
-                    MessageBox.Show("Yakaladım !");
                     Process.Start("https://www.youtube.com/channel/UCA9NKzZym6coY-XFyYTw9fQ");
                     Environment.Exit(0);
                 }
